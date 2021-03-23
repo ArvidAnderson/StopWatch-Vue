@@ -1,4 +1,4 @@
-# time
+# StopWatch VUE
 
 ## Project setup
 ```
