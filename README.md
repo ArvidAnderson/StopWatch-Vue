@@ -3,10 +3,14 @@
 
 ![Preview](https://github.com/ArvidAnderson/StopWatch-Vue/blob/main/preview.PNG)
 
-## Fatures
+## Features
 
 * Start, Stop, Clear, Lap
 
+## Made with
+
+* Vue 3
+* TailwindCSS
 
 ## Project setup
 ```
