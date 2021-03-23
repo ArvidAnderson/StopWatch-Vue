@@ -1,5 +1,9 @@
 # StopWatch VUE
 
+
+![Preview](https://github.com/ArvidAnderson/StopWatch-Vue/blob/main/preview.PNG)
+
+
 ## Project setup
 ```
 yarn install
