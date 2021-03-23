@@ -3,6 +3,10 @@
 
 ![Preview](https://github.com/ArvidAnderson/StopWatch-Vue/blob/main/preview.PNG)
 
+## Fatures
+
+* Start, Stop, Clear, Lap
+
 
 ## Project setup
 ```
