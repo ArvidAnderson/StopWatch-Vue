@@ -1,4 +1,4 @@
-# StopWatch VUE
+# StopWatch Vue
 
 
 ![Preview](https://github.com/ArvidAnderson/StopWatch-Vue/blob/main/preview.PNG)
